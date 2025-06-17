@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/umergulkaleem/LeetCode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/umergulkaleem/LeetCode/tree/master/0070-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/umergulkaleem/LeetCode/tree/master/0001-two-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/umergulkaleem/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/umergulkaleem/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/umergulkaleem/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
