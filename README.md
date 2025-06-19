@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/umergulkaleem/LeetCode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/umergulkaleem/LeetCode/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/umergulkaleem/LeetCode/tree/master/0326-power-of-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/umergulkaleem/LeetCode/tree/master/0075-sort-colors) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/umergulkaleem/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
