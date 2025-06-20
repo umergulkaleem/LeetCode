@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/umergulkaleem/LeetCode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/umergulkaleem/LeetCode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/umergulkaleem/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/umergulkaleem/LeetCode/tree/master/0326-power-of-three) |
 ## Hash Table
 |  |
@@ -45,9 +46,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/umergulkaleem/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/umergulkaleem/LeetCode/tree/master/0326-power-of-three) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/umergulkaleem/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/umergulkaleem/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
