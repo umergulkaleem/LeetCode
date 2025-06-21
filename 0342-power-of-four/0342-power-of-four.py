@@ -8,6 +8,7 @@ class Solution:
         #     return helper(n,i+1)
         # return helper(n,0)
         def helper(x):
+            print(x)
             if x == 1:
                 return True
             if x % 4 != 0 or x == 0:
