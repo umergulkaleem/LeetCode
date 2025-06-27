@@ -24,21 +24,10 @@ class Solution:
             changed_word = ""
             for i in range(len(word)):
                 rec = ord(word[i])
-                print(rec,"rec")
                 changed_word += chr(rec+1)
-                print(changed_word)
-            print(changed_word,"full changed")
             word+=changed_word
-
-                
-
-
-           
-            
-
             return helper(word, k)
 
-        # Initial call
         word = "a"
         result = helper(word, k)
         return result
