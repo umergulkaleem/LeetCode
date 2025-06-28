@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/umergulkaleem/LeetCode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/umergulkaleem/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/umergulkaleem/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/umergulkaleem/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/umergulkaleem/LeetCode/tree/master/0326-power-of-three) |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/umergulkaleem/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/umergulkaleem/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
