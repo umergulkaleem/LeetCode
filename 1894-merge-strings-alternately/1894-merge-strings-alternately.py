@@ -1,11 +1,6 @@
 class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
-        count=0
-        mixlen = len(word1)+len(word2)
-        finalstr = ""
-        print(mixlen)
-        # for i in range(mixlen):
-        #     if count%
+        finalstr =""
         point1 = 0
         point2=0
         len1=len(word1)
