@@ -3,7 +3,6 @@ class Solution:
         five=0 
         ten = 0
         for i in bills:
-            print("at",i)
             if i ==5:
                 five+=1
             elif i ==10:
