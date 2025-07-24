@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/umergulkaleem/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/umergulkaleem/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/umergulkaleem/LeetCode/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/umergulkaleem/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1119-robot-bounded-in-circle](https://github.com/umergulkaleem/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/umergulkaleem/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/umergulkaleem/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/umergulkaleem/LeetCode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/umergulkaleem/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/umergulkaleem/LeetCode/tree/master/0389-find-the-difference) |
+| [1018-largest-perimeter-triangle](https://github.com/umergulkaleem/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/umergulkaleem/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/umergulkaleem/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Array
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/umergulkaleem/LeetCode/tree/master/0869-similar-string-groups) |
 | [0890-lemonade-change](https://github.com/umergulkaleem/LeetCode/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/umergulkaleem/LeetCode/tree/master/0932-monotonic-array) |
+| [1018-largest-perimeter-triangle](https://github.com/umergulkaleem/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/umergulkaleem/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/umergulkaleem/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/umergulkaleem/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/umergulkaleem/LeetCode/tree/master/0890-lemonade-change) |
+| [1018-largest-perimeter-triangle](https://github.com/umergulkaleem/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 ## Geometry
 |  |
 | ------- |
