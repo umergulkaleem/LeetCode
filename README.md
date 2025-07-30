@@ -162,10 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/umergulkaleem/LeetCode/tree/master/0100-same-tree) |
 | [0869-similar-string-groups](https://github.com/umergulkaleem/LeetCode/tree/master/0869-similar-string-groups) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/umergulkaleem/LeetCode/tree/master/0100-same-tree) |
 | [0869-similar-string-groups](https://github.com/umergulkaleem/LeetCode/tree/master/0869-similar-string-groups) |
 ## Union Find
 |  |
@@ -215,4 +217,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/umergulkaleem/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/umergulkaleem/LeetCode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/umergulkaleem/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
