@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/umergulkaleem/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/umergulkaleem/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/umergulkaleem/LeetCode/tree/master/0409-longest-palindrome) |
+| [0443-string-compression](https://github.com/umergulkaleem/LeetCode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/umergulkaleem/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0657-robot-return-to-origin](https://github.com/umergulkaleem/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/umergulkaleem/LeetCode/tree/master/0742-to-lower-case) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/umergulkaleem/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/umergulkaleem/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/umergulkaleem/LeetCode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/umergulkaleem/LeetCode/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/umergulkaleem/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Recursion
 |  |
