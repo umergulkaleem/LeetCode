@@ -1,17 +1,18 @@
-class Solution:
-    def isPowerOfTwo(self, n: int) -> bool:
-        def helper(n,i):
-            print(i)
-            if 2**i == n:
-                print("in True")
+class Solution(object):
+    def isPowerOfTwo(self, n):
+        """
+        :type n: int
+        :rtype: bool
+        """
+        if n == 1:
+            return True
+        def helper(n):
+            print(n)
+            if n == 1:
                 return True
-            if i>=31:
-                print("in false")
+            if n < 1 or n % 2 != 0:
                 return False
-            return helper(n,i+1)
-
-        return helper(n,0)
-            
     
-
-        
+                # Recursive call dividing n by 2
+            return helper(n // 2)
+        return helper(n)
