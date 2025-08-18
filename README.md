@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/umergulkaleem/LeetCode/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/umergulkaleem/LeetCode/tree/master/0932-monotonic-array) |
 | [1018-largest-perimeter-triangle](https://github.com/umergulkaleem/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1046-max-consecutive-ones-iii](https://github.com/umergulkaleem/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/umergulkaleem/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/umergulkaleem/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/umergulkaleem/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/umergulkaleem/LeetCode/tree/master/0069-sqrtx) |
+| [1046-max-consecutive-ones-iii](https://github.com/umergulkaleem/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Database
 |  |
 | ------- |
@@ -266,11 +268,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/umergulkaleem/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/umergulkaleem/LeetCode/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/umergulkaleem/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/umergulkaleem/LeetCode/tree/master/1833-find-the-highest-altitude) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/umergulkaleem/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/umergulkaleem/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/umergulkaleem/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Counting
 |  |
