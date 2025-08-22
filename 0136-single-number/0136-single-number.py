@@ -1,5 +1,9 @@
-class Solution:
-    def singleNumber(self, nums: List[int]) -> int:
+class Solution(object):
+    def singleNumber(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
         numsnew = sorted(nums)
         # print(numsnew)
         count =0
@@ -14,4 +18,5 @@ class Solution:
         # for i in nums:
         #     res = res ^ i  #xor for checing different input
         # return res
+        
         
