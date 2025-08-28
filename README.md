@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/umergulkaleem/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1777-determine-if-two-strings-are-close](https://github.com/umergulkaleem/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/umergulkaleem/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [3748-sort-matrix-by-diagonals](https://github.com/umergulkaleem/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Array
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/umergulkaleem/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/umergulkaleem/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/umergulkaleem/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3748-sort-matrix-by-diagonals](https://github.com/umergulkaleem/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/umergulkaleem/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1677-matrix-diagonal-sum](https://github.com/umergulkaleem/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/umergulkaleem/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [3748-sort-matrix-by-diagonals](https://github.com/umergulkaleem/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Linked List
 |  |
 | ------- |
