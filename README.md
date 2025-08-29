@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/umergulkaleem/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/umergulkaleem/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/umergulkaleem/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2470-removing-stars-from-a-string](https://github.com/umergulkaleem/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/umergulkaleem/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Sorting
 |  |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/umergulkaleem/LeetCode/tree/master/0735-asteroid-collision) |
 | [1119-robot-bounded-in-circle](https://github.com/umergulkaleem/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/umergulkaleem/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [2470-removing-stars-from-a-string](https://github.com/umergulkaleem/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/umergulkaleem/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/umergulkaleem/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/umergulkaleem/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/umergulkaleem/LeetCode/tree/master/0735-asteroid-collision) |
+| [2470-removing-stars-from-a-string](https://github.com/umergulkaleem/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Matrix
 |  |
 | ------- |
