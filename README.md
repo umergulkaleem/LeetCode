@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/umergulkaleem/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/umergulkaleem/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/umergulkaleem/LeetCode/tree/master/0547-number-of-provinces) |
 | [0869-similar-string-groups](https://github.com/umergulkaleem/LeetCode/tree/master/0869-similar-string-groups) |
 | [0871-keys-and-rooms](https://github.com/umergulkaleem/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/umergulkaleem/LeetCode/tree/master/0904-leaf-similar-trees) |
@@ -240,12 +241,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/umergulkaleem/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/umergulkaleem/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/umergulkaleem/LeetCode/tree/master/0547-number-of-provinces) |
 | [0869-similar-string-groups](https://github.com/umergulkaleem/LeetCode/tree/master/0869-similar-string-groups) |
 | [0871-keys-and-rooms](https://github.com/umergulkaleem/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/umergulkaleem/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/umergulkaleem/LeetCode/tree/master/0547-number-of-provinces) |
 | [0869-similar-string-groups](https://github.com/umergulkaleem/LeetCode/tree/master/0869-similar-string-groups) |
 ## Stack
 |  |
@@ -371,5 +374,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/umergulkaleem/LeetCode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/umergulkaleem/LeetCode/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
