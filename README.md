@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/umergulkaleem/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/umergulkaleem/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/umergulkaleem/LeetCode/tree/master/0682-baseball-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/umergulkaleem/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/umergulkaleem/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/umergulkaleem/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/umergulkaleem/LeetCode/tree/master/0739-daily-temperatures) |
