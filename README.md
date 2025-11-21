@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/umergulkaleem/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1777-determine-if-two-strings-are-close](https://github.com/umergulkaleem/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/umergulkaleem/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/umergulkaleem/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/umergulkaleem/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/umergulkaleem/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/umergulkaleem/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/umergulkaleem/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1777-determine-if-two-strings-are-close](https://github.com/umergulkaleem/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/umergulkaleem/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/umergulkaleem/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/umergulkaleem/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/umergulkaleem/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/umergulkaleem/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/umergulkaleem/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/umergulkaleem/LeetCode/tree/master/0389-find-the-difference) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/umergulkaleem/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/umergulkaleem/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/umergulkaleem/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/umergulkaleem/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/umergulkaleem/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/umergulkaleem/LeetCode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/umergulkaleem/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/umergulkaleem/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/umergulkaleem/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/umergulkaleem/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/umergulkaleem/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Sliding Window
