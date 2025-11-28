@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/umergulkaleem/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/umergulkaleem/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/umergulkaleem/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0217-contains-duplicate](https://github.com/umergulkaleem/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/umergulkaleem/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/umergulkaleem/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/umergulkaleem/LeetCode/tree/master/0409-longest-palindrome) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/umergulkaleem/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/umergulkaleem/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/umergulkaleem/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/umergulkaleem/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/umergulkaleem/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/umergulkaleem/LeetCode/tree/master/0389-find-the-difference) |
 | [0900-reordered-power-of-2](https://github.com/umergulkaleem/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/umergulkaleem/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/umergulkaleem/LeetCode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/umergulkaleem/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/umergulkaleem/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/umergulkaleem/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/umergulkaleem/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/umergulkaleem/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
