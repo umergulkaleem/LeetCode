@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/umergulkaleem/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/umergulkaleem/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/umergulkaleem/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/umergulkaleem/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/umergulkaleem/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/umergulkaleem/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/umergulkaleem/LeetCode/tree/master/0242-valid-anagram) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/umergulkaleem/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/umergulkaleem/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/umergulkaleem/LeetCode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/umergulkaleem/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/umergulkaleem/LeetCode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/umergulkaleem/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/umergulkaleem/LeetCode/tree/master/0242-valid-anagram) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/umergulkaleem/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/umergulkaleem/LeetCode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/umergulkaleem/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/umergulkaleem/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/umergulkaleem/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/umergulkaleem/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/umergulkaleem/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/umergulkaleem/LeetCode/tree/master/0016-3sum-closest) |
 | [0046-permutations](https://github.com/umergulkaleem/LeetCode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/umergulkaleem/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/umergulkaleem/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/umergulkaleem/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/umergulkaleem/LeetCode/tree/master/0066-plus-one) |
