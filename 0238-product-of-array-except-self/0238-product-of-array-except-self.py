@@ -1,34 +1,12 @@
-class Solution(object):
-    def productExceptSelf(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[int]
-        """
-        # sums = []
-        # for i in range(len(nums)):
-        #     product =1 
-        #     for k in range(len(nums)):
-        #         if i!=k:
-        #             product = product*nums[k]
-        #             print(product,"at ",nums[k],"at",nums[i])
-                    
-        #     sums.append(product)
-        # return sums
-        n = len(nums)
-        result = [1]*n
-
+class Solution:
+    def productExceptSelf(self, nums: List[int]) -> List[int]:
+        res = [1]*len(nums)
         prefix = 1
-        for i in range(n):
-            result[i]=prefix
-            prefix *=nums[i]
-
-        suffix = 1
-        for i in range(n-1,-1,-1):
-            result[i]*=suffix
-            suffix *=nums[i]
-                    
-        return result
-            
-
-
-        
+        for i in range(len(nums)):
+            res[i]=prefix
+            prefix*=nums[i]
+        postfix = 1
+        for i in range(len(nums)-1,-1,-1):
+            res[i]*=postfix
+            postfix*=nums[i]
+        return res
