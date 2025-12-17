@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/umergulkaleem/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/umergulkaleem/LeetCode/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/umergulkaleem/LeetCode/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/umergulkaleem/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/umergulkaleem/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/umergulkaleem/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/umergulkaleem/LeetCode/tree/master/0053-maximum-subarray) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/umergulkaleem/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/umergulkaleem/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/umergulkaleem/LeetCode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/umergulkaleem/LeetCode/tree/master/0120-triangle) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/umergulkaleem/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/umergulkaleem/LeetCode/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/umergulkaleem/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/umergulkaleem/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/umergulkaleem/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/umergulkaleem/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/umergulkaleem/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/umergulkaleem/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/umergulkaleem/LeetCode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/umergulkaleem/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/umergulkaleem/LeetCode/tree/master/0682-baseball-game) |
@@ -478,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/umergulkaleem/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/umergulkaleem/LeetCode/tree/master/0739-daily-temperatures) |
 ## Graph
 |  |
