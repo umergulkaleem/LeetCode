@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/umergulkaleem/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/umergulkaleem/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/umergulkaleem/LeetCode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/umergulkaleem/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/umergulkaleem/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/umergulkaleem/LeetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/umergulkaleem/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/umergulkaleem/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/umergulkaleem/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/umergulkaleem/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/umergulkaleem/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/umergulkaleem/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umergulkaleem/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/umergulkaleem/LeetCode/tree/master/0283-move-zeroes) |
