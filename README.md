@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/umergulkaleem/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/umergulkaleem/LeetCode/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/umergulkaleem/LeetCode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/umergulkaleem/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/umergulkaleem/LeetCode/tree/master/0682-baseball-game) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/umergulkaleem/LeetCode/tree/master/0155-min-stack) |
 | [0969-number-of-recent-calls](https://github.com/umergulkaleem/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
