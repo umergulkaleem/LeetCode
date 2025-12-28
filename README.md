@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/umergulkaleem/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/umergulkaleem/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/umergulkaleem/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/umergulkaleem/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/umergulkaleem/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/umergulkaleem/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/umergulkaleem/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umergulkaleem/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/umergulkaleem/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [1046-max-consecutive-ones-iii](https://github.com/umergulkaleem/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/umergulkaleem/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/umergulkaleem/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/umergulkaleem/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Database
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/umergulkaleem/LeetCode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/umergulkaleem/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/umergulkaleem/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/umergulkaleem/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/umergulkaleem/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1677-matrix-diagonal-sum](https://github.com/umergulkaleem/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/umergulkaleem/LeetCode/tree/master/1791-richest-customer-wealth) |
