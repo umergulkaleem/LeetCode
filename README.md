@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/umergulkaleem/LeetCode/tree/master/0932-monotonic-array) |
 | [1018-largest-perimeter-triangle](https://github.com/umergulkaleem/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1046-max-consecutive-ones-iii](https://github.com/umergulkaleem/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/umergulkaleem/LeetCode/tree/master/1046-last-stone-weight) |
 | [1319-unique-number-of-occurrences](https://github.com/umergulkaleem/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/umergulkaleem/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/umergulkaleem/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/umergulkaleem/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/umergulkaleem/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/umergulkaleem/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/umergulkaleem/LeetCode/tree/master/1046-last-stone-weight) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/umergulkaleem/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/umergulkaleem/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Quickselect
