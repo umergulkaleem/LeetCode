@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/umergulkaleem/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/umergulkaleem/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/umergulkaleem/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/umergulkaleem/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/umergulkaleem/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/umergulkaleem/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/umergulkaleem/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/umergulkaleem/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/umergulkaleem/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/umergulkaleem/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/umergulkaleem/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/umergulkaleem/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/umergulkaleem/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/umergulkaleem/LeetCode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/umergulkaleem/LeetCode/tree/master/0078-subsets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/umergulkaleem/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/umergulkaleem/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Divide and Conquer
