@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/umergulkaleem/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/umergulkaleem/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/umergulkaleem/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/umergulkaleem/LeetCode/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/umergulkaleem/LeetCode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/umergulkaleem/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/umergulkaleem/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/umergulkaleem/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/umergulkaleem/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umergulkaleem/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0212-word-search-ii](https://github.com/umergulkaleem/LeetCode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/umergulkaleem/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/umergulkaleem/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/umergulkaleem/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/umergulkaleem/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/umergulkaleem/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/umergulkaleem/LeetCode/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/umergulkaleem/LeetCode/tree/master/0212-word-search-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/umergulkaleem/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/umergulkaleem/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1677-matrix-diagonal-sum](https://github.com/umergulkaleem/LeetCode/tree/master/1677-matrix-diagonal-sum) |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/umergulkaleem/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/umergulkaleem/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/umergulkaleem/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/umergulkaleem/LeetCode/tree/master/0212-word-search-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/umergulkaleem/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/umergulkaleem/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Divide and Conquer
@@ -687,4 +691,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/umergulkaleem/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/umergulkaleem/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/umergulkaleem/LeetCode/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
