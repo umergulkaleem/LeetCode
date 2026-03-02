@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/umergulkaleem/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/umergulkaleem/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/umergulkaleem/LeetCode/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/umergulkaleem/LeetCode/tree/master/0743-network-delay-time) |
 | [0869-similar-string-groups](https://github.com/umergulkaleem/LeetCode/tree/master/0869-similar-string-groups) |
 | [0871-keys-and-rooms](https://github.com/umergulkaleem/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/umergulkaleem/LeetCode/tree/master/0904-leaf-similar-trees) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/umergulkaleem/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/umergulkaleem/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/umergulkaleem/LeetCode/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/umergulkaleem/LeetCode/tree/master/0743-network-delay-time) |
 | [0869-similar-string-groups](https://github.com/umergulkaleem/LeetCode/tree/master/0869-similar-string-groups) |
 | [0871-keys-and-rooms](https://github.com/umergulkaleem/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/umergulkaleem/LeetCode/tree/master/0994-rotting-oranges) |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/umergulkaleem/LeetCode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/umergulkaleem/LeetCode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/umergulkaleem/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/umergulkaleem/LeetCode/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/umergulkaleem/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/umergulkaleem/LeetCode/tree/master/1046-last-stone-weight) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/umergulkaleem/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -732,9 +735,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/umergulkaleem/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/umergulkaleem/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/umergulkaleem/LeetCode/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/umergulkaleem/LeetCode/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/umergulkaleem/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/umergulkaleem/LeetCode/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/umergulkaleem/LeetCode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
