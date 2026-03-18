@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/umergulkaleem/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/umergulkaleem/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/umergulkaleem/LeetCode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/umergulkaleem/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/umergulkaleem/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0334-increasing-triplet-subsequence](https://github.com/umergulkaleem/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/umergulkaleem/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/umergulkaleem/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/umergulkaleem/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/umergulkaleem/LeetCode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/umergulkaleem/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/umergulkaleem/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/umergulkaleem/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/umergulkaleem/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/umergulkaleem/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/umergulkaleem/LeetCode/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/umergulkaleem/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1013-fibonacci-number](https://github.com/umergulkaleem/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/umergulkaleem/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Two Pointers
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/umergulkaleem/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/umergulkaleem/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/umergulkaleem/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/umergulkaleem/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/umergulkaleem/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/umergulkaleem/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/umergulkaleem/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -467,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/umergulkaleem/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/umergulkaleem/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/umergulkaleem/LeetCode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/umergulkaleem/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/umergulkaleem/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/umergulkaleem/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/umergulkaleem/LeetCode/tree/master/0684-redundant-connection) |
@@ -512,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/umergulkaleem/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/umergulkaleem/LeetCode/tree/master/0130-surrounded-regions) |
 | [0212-word-search-ii](https://github.com/umergulkaleem/LeetCode/tree/master/0212-word-search-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/umergulkaleem/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/umergulkaleem/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/umergulkaleem/LeetCode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/umergulkaleem/LeetCode/tree/master/0778-swim-in-rising-water) |
@@ -781,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/umergulkaleem/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/umergulkaleem/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/umergulkaleem/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/umergulkaleem/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/umergulkaleem/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/umergulkaleem/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/umergulkaleem/LeetCode/tree/master/0743-network-delay-time) |
@@ -791,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/umergulkaleem/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/umergulkaleem/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/umergulkaleem/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Shortest Path
 |  |
 | ------- |
