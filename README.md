@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/umergulkaleem/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/umergulkaleem/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/umergulkaleem/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/umergulkaleem/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/umergulkaleem/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/umergulkaleem/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/umergulkaleem/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/umergulkaleem/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/umergulkaleem/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/umergulkaleem/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/umergulkaleem/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/umergulkaleem/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/umergulkaleem/LeetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/umergulkaleem/LeetCode/tree/master/0091-decode-ways) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/umergulkaleem/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/umergulkaleem/LeetCode/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/umergulkaleem/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/umergulkaleem/LeetCode/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/umergulkaleem/LeetCode/tree/master/0605-can-place-flowers) |
