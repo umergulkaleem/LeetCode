@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/umergulkaleem/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/umergulkaleem/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/umergulkaleem/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/umergulkaleem/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/umergulkaleem/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/umergulkaleem/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/umergulkaleem/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/umergulkaleem/LeetCode/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/umergulkaleem/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/umergulkaleem/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/umergulkaleem/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/umergulkaleem/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Geometry
 |  |
