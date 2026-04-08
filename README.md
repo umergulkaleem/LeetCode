@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/umergulkaleem/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/umergulkaleem/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/umergulkaleem/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/umergulkaleem/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/umergulkaleem/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/umergulkaleem/LeetCode/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/umergulkaleem/LeetCode/tree/master/0445-add-two-numbers-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/umergulkaleem/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/umergulkaleem/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/umergulkaleem/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/umergulkaleem/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/umergulkaleem/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/umergulkaleem/LeetCode/tree/master/0355-design-twitter) |
 | [0389-find-the-difference](https://github.com/umergulkaleem/LeetCode/tree/master/0389-find-the-difference) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/umergulkaleem/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/umergulkaleem/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/umergulkaleem/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/umergulkaleem/LeetCode/tree/master/0268-missing-number) |
 | [0332-reconstruct-itinerary](https://github.com/umergulkaleem/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/umergulkaleem/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/umergulkaleem/LeetCode/tree/master/0389-find-the-difference) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/umergulkaleem/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/umergulkaleem/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/umergulkaleem/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/umergulkaleem/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/umergulkaleem/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/umergulkaleem/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/umergulkaleem/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -405,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/umergulkaleem/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/umergulkaleem/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/umergulkaleem/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/umergulkaleem/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/umergulkaleem/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/umergulkaleem/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/umergulkaleem/LeetCode/tree/master/0342-power-of-four) |
@@ -442,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/umergulkaleem/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/umergulkaleem/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umergulkaleem/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/umergulkaleem/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/umergulkaleem/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/umergulkaleem/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/umergulkaleem/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
