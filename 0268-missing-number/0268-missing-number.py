@@ -11,16 +11,19 @@ class Solution:
         #     if i !=no:
         #         return no
         #     no+=1
-        appear = set()
-        for i in nums:
-            appear.add(i)
+        # appear = set()
+        # for i in nums:
+        #     appear.add(i)
         
-        n = 0
-        while n<=len(nums):
-            if n not in appear:
-                return n
-            n+=1
+        # n = 0
+        # while n<=len(nums):
+        #     if n not in appear:
+        #         return n
+        #     n+=1
 
-            
+        res = len(nums)
+        for i in range(len(nums)):
+            res ^= i ^ nums[i]
+        return res            
             
         
