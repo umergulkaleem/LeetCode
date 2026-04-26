@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2013-detect-squares](https://github.com/umergulkaleem/LeetCode/tree/master/2013-detect-squares) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/umergulkaleem/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/umergulkaleem/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/umergulkaleem/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/umergulkaleem/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/umergulkaleem/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/umergulkaleem/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/umergulkaleem/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/umergulkaleem/LeetCode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/umergulkaleem/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/umergulkaleem/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3748-sort-matrix-by-diagonals](https://github.com/umergulkaleem/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Array
 |  |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2559-count-vowel-strings-in-ranges](https://github.com/umergulkaleem/LeetCode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/umergulkaleem/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/umergulkaleem/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/umergulkaleem/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/umergulkaleem/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/umergulkaleem/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/umergulkaleem/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
