@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/umergulkaleem/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/umergulkaleem/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/umergulkaleem/LeetCode/tree/master/2559-count-vowel-strings-in-ranges) |
+| [2678-number-of-senior-citizens](https://github.com/umergulkaleem/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/umergulkaleem/LeetCode/tree/master/3110-score-of-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/umergulkaleem/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/umergulkaleem/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/umergulkaleem/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/umergulkaleem/LeetCode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/umergulkaleem/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2678-number-of-senior-citizens](https://github.com/umergulkaleem/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/umergulkaleem/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/umergulkaleem/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/umergulkaleem/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
