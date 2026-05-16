@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/umergulkaleem/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/umergulkaleem/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/umergulkaleem/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/umergulkaleem/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/umergulkaleem/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1777-determine-if-two-strings-are-close](https://github.com/umergulkaleem/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/umergulkaleem/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/umergulkaleem/LeetCode/tree/master/0869-similar-string-groups) |
 | [1119-robot-bounded-in-circle](https://github.com/umergulkaleem/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/umergulkaleem/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/umergulkaleem/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/umergulkaleem/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/umergulkaleem/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/umergulkaleem/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/umergulkaleem/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/umergulkaleem/LeetCode/tree/master/0389-find-the-difference) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/umergulkaleem/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/umergulkaleem/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/umergulkaleem/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/umergulkaleem/LeetCode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/umergulkaleem/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -926,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/umergulkaleem/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0572-subtree-of-another-tree](https://github.com/umergulkaleem/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/umergulkaleem/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1000,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/umergulkaleem/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/umergulkaleem/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Randomized
 |  |
 | ------- |
