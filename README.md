@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/umergulkaleem/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/umergulkaleem/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/umergulkaleem/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2270-number-of-ways-to-split-array](https://github.com/umergulkaleem/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/umergulkaleem/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/umergulkaleem/LeetCode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/umergulkaleem/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -799,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/umergulkaleem/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/umergulkaleem/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2017-grid-game](https://github.com/umergulkaleem/LeetCode/tree/master/2017-grid-game) |
+| [2270-number-of-ways-to-split-array](https://github.com/umergulkaleem/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/umergulkaleem/LeetCode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/umergulkaleem/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/umergulkaleem/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
