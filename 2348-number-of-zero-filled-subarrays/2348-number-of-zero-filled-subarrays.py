@@ -1,17 +1,31 @@
 class Solution:
     def zeroFilledSubarray(self, nums: List[int]) -> int:
-        
+
         res = 0
-        count = 0
+        i = 0 
 
-        for i in nums:
-            if i ==0:
+        while i < len(nums):
+            count = 0
+            while i< len(nums) and nums[i] == 0:
                 count+=1
-            else:
-                count = 0
-
-            res+=count
+                i+=1
+                res+=count
+            i+=1
         return res
+
+
+        
+        # res = 0
+        # count = 0
+
+        # for i in nums:
+        #     if i ==0:
+        #         count+=1
+        #     else:
+        #         count = 0
+
+        #     res+=count
+        # return res
 
 
         # cont = 0
