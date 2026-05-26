@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/umergulkaleem/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2013-detect-squares](https://github.com/umergulkaleem/LeetCode/tree/master/2013-detect-squares) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/umergulkaleem/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2405-optimal-partition-of-string](https://github.com/umergulkaleem/LeetCode/tree/master/2405-optimal-partition-of-string) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/umergulkaleem/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/umergulkaleem/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/umergulkaleem/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/umergulkaleem/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/umergulkaleem/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2381-shifting-letters-ii](https://github.com/umergulkaleem/LeetCode/tree/master/2381-shifting-letters-ii) |
+| [2405-optimal-partition-of-string](https://github.com/umergulkaleem/LeetCode/tree/master/2405-optimal-partition-of-string) |
 | [2470-removing-stars-from-a-string](https://github.com/umergulkaleem/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/umergulkaleem/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/umergulkaleem/LeetCode/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/umergulkaleem/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/umergulkaleem/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/umergulkaleem/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2405-optimal-partition-of-string](https://github.com/umergulkaleem/LeetCode/tree/master/2405-optimal-partition-of-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/umergulkaleem/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/umergulkaleem/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Geometry
