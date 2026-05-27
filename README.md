@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/umergulkaleem/LeetCode/tree/master/1122-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/umergulkaleem/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/umergulkaleem/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1396-design-underground-system](https://github.com/umergulkaleem/LeetCode/tree/master/1396-design-underground-system) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/umergulkaleem/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/umergulkaleem/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/umergulkaleem/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0916-word-subsets](https://github.com/umergulkaleem/LeetCode/tree/master/0916-word-subsets) |
 | [1119-robot-bounded-in-circle](https://github.com/umergulkaleem/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/umergulkaleem/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1396-design-underground-system](https://github.com/umergulkaleem/LeetCode/tree/master/1396-design-underground-system) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/umergulkaleem/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/umergulkaleem/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/umergulkaleem/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/umergulkaleem/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/umergulkaleem/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/umergulkaleem/LeetCode/tree/master/0969-number-of-recent-calls) |
+| [1396-design-underground-system](https://github.com/umergulkaleem/LeetCode/tree/master/1396-design-underground-system) |
 | [1603-design-parking-system](https://github.com/umergulkaleem/LeetCode/tree/master/1603-design-parking-system) |
 | [2013-detect-squares](https://github.com/umergulkaleem/LeetCode/tree/master/2013-detect-squares) |
 ## Queue
