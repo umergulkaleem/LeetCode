@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/umergulkaleem/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/umergulkaleem/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/umergulkaleem/LeetCode/tree/master/1642-water-bottles) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/umergulkaleem/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/umergulkaleem/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/umergulkaleem/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/umergulkaleem/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/umergulkaleem/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/umergulkaleem/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1677-matrix-diagonal-sum](https://github.com/umergulkaleem/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/umergulkaleem/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/umergulkaleem/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/umergulkaleem/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1791-richest-customer-wealth](https://github.com/umergulkaleem/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -813,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/umergulkaleem/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/umergulkaleem/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/umergulkaleem/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/umergulkaleem/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/umergulkaleem/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1833-find-the-highest-altitude](https://github.com/umergulkaleem/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/umergulkaleem/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
