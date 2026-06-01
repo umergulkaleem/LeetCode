@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/umergulkaleem/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2353-design-a-food-rating-system](https://github.com/umergulkaleem/LeetCode/tree/master/2353-design-a-food-rating-system) |
 | [2405-optimal-partition-of-string](https://github.com/umergulkaleem/LeetCode/tree/master/2405-optimal-partition-of-string) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/umergulkaleem/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/umergulkaleem/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/umergulkaleem/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/umergulkaleem/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/umergulkaleem/LeetCode/tree/master/2381-shifting-letters-ii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/umergulkaleem/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/umergulkaleem/LeetCode/tree/master/2559-count-vowel-strings-in-ranges) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/umergulkaleem/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/umergulkaleem/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2678-number-of-senior-citizens](https://github.com/umergulkaleem/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/umergulkaleem/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
