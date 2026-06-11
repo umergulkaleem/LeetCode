@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/umergulkaleem/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0389-find-the-difference](https://github.com/umergulkaleem/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/umergulkaleem/LeetCode/tree/master/0409-longest-palindrome) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/umergulkaleem/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/umergulkaleem/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/umergulkaleem/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/umergulkaleem/LeetCode/tree/master/0525-contiguous-array) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/umergulkaleem/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/umergulkaleem/LeetCode/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/umergulkaleem/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/umergulkaleem/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/umergulkaleem/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/umergulkaleem/LeetCode/tree/master/0621-task-scheduler) |
 | [0791-custom-sort-string](https://github.com/umergulkaleem/LeetCode/tree/master/0791-custom-sort-string) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/umergulkaleem/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/umergulkaleem/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/umergulkaleem/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/umergulkaleem/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0494-target-sum](https://github.com/umergulkaleem/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/umergulkaleem/LeetCode/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/umergulkaleem/LeetCode/tree/master/0523-continuous-subarray-sum) |
