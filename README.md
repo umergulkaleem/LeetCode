@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/umergulkaleem/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/umergulkaleem/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/umergulkaleem/LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/umergulkaleem/LeetCode/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/umergulkaleem/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/umergulkaleem/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/umergulkaleem/LeetCode/tree/master/0079-word-search) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/umergulkaleem/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/umergulkaleem/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/umergulkaleem/LeetCode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/umergulkaleem/LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/umergulkaleem/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/umergulkaleem/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/umergulkaleem/LeetCode/tree/master/0075-sort-colors) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/umergulkaleem/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/umergulkaleem/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/umergulkaleem/LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/umergulkaleem/LeetCode/tree/master/0068-text-justification) |
 | [0657-robot-return-to-origin](https://github.com/umergulkaleem/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/umergulkaleem/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/umergulkaleem/LeetCode/tree/master/0735-asteroid-collision) |
