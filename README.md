@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/umergulkaleem/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2013-detect-squares](https://github.com/umergulkaleem/LeetCode/tree/master/2013-detect-squares) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/umergulkaleem/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2306-naming-a-company](https://github.com/umergulkaleem/LeetCode/tree/master/2306-naming-a-company) |
 | [2353-design-a-food-rating-system](https://github.com/umergulkaleem/LeetCode/tree/master/2353-design-a-food-rating-system) |
 | [2364-count-number-of-bad-pairs](https://github.com/umergulkaleem/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2405-optimal-partition-of-string](https://github.com/umergulkaleem/LeetCode/tree/master/2405-optimal-partition-of-string) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/umergulkaleem/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/umergulkaleem/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/umergulkaleem/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2306-naming-a-company](https://github.com/umergulkaleem/LeetCode/tree/master/2306-naming-a-company) |
 | [2353-design-a-food-rating-system](https://github.com/umergulkaleem/LeetCode/tree/master/2353-design-a-food-rating-system) |
 | [2381-shifting-letters-ii](https://github.com/umergulkaleem/LeetCode/tree/master/2381-shifting-letters-ii) |
 | [2405-optimal-partition-of-string](https://github.com/umergulkaleem/LeetCode/tree/master/2405-optimal-partition-of-string) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/umergulkaleem/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/umergulkaleem/LeetCode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2270-number-of-ways-to-split-array](https://github.com/umergulkaleem/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
+| [2306-naming-a-company](https://github.com/umergulkaleem/LeetCode/tree/master/2306-naming-a-company) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/umergulkaleem/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2353-design-a-food-rating-system](https://github.com/umergulkaleem/LeetCode/tree/master/2353-design-a-food-rating-system) |
 | [2364-count-number-of-bad-pairs](https://github.com/umergulkaleem/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/umergulkaleem/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/umergulkaleem/LeetCode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/umergulkaleem/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2306-naming-a-company](https://github.com/umergulkaleem/LeetCode/tree/master/2306-naming-a-company) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/umergulkaleem/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/umergulkaleem/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Simulation
@@ -801,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/umergulkaleem/LeetCode/tree/master/1291-sequential-digits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/umergulkaleem/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/umergulkaleem/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2306-naming-a-company](https://github.com/umergulkaleem/LeetCode/tree/master/2306-naming-a-company) |
 ## Tree
 |  |
 | ------- |
