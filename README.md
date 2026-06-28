@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/umergulkaleem/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1777-determine-if-two-strings-are-close](https://github.com/umergulkaleem/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/umergulkaleem/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1898-maximum-number-of-removable-characters](https://github.com/umergulkaleem/LeetCode/tree/master/1898-maximum-number-of-removable-characters) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/umergulkaleem/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/umergulkaleem/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/umergulkaleem/LeetCode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/umergulkaleem/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/umergulkaleem/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/umergulkaleem/LeetCode/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1898-maximum-number-of-removable-characters](https://github.com/umergulkaleem/LeetCode/tree/master/1898-maximum-number-of-removable-characters) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/umergulkaleem/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/umergulkaleem/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/umergulkaleem/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/umergulkaleem/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/umergulkaleem/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/umergulkaleem/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1898-maximum-number-of-removable-characters](https://github.com/umergulkaleem/LeetCode/tree/master/1898-maximum-number-of-removable-characters) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/umergulkaleem/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2109-adding-spaces-to-a-string](https://github.com/umergulkaleem/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/umergulkaleem/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -611,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/umergulkaleem/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/umergulkaleem/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/umergulkaleem/LeetCode/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1898-maximum-number-of-removable-characters](https://github.com/umergulkaleem/LeetCode/tree/master/1898-maximum-number-of-removable-characters) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/umergulkaleem/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/umergulkaleem/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Database
