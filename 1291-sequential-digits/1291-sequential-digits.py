@@ -15,4 +15,3 @@ class Solution:
             if ones <9:
                 queue.append(n*10+(ones+1))
         return res
-        
