@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/umergulkaleem/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/umergulkaleem/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/umergulkaleem/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/umergulkaleem/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2780-minimum-index-of-a-valid-split](https://github.com/umergulkaleem/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/umergulkaleem/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3748-sort-matrix-by-diagonals](https://github.com/umergulkaleem/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/umergulkaleem/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
 | ------- |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-sort-matrix-by-diagonals](https://github.com/umergulkaleem/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/umergulkaleem/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3863-power-grid-maintenance](https://github.com/umergulkaleem/LeetCode/tree/master/3863-power-grid-maintenance) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/umergulkaleem/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/umergulkaleem/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/umergulkaleem/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/umergulkaleem/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/umergulkaleem/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -611,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/umergulkaleem/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/umergulkaleem/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/umergulkaleem/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/umergulkaleem/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -1045,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/umergulkaleem/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/umergulkaleem/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/umergulkaleem/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/umergulkaleem/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bucket Sort
 |  |
 | ------- |
