@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/umergulkaleem/LeetCode/tree/master/1642-water-bottles) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/umergulkaleem/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/umergulkaleem/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/umergulkaleem/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/umergulkaleem/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/umergulkaleem/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/umergulkaleem/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/umergulkaleem/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/umergulkaleem/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/umergulkaleem/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/umergulkaleem/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/umergulkaleem/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2013-detect-squares](https://github.com/umergulkaleem/LeetCode/tree/master/2013-detect-squares) |
 | [2017-grid-game](https://github.com/umergulkaleem/LeetCode/tree/master/2017-grid-game) |
@@ -1049,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/umergulkaleem/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/umergulkaleem/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/umergulkaleem/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/umergulkaleem/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
