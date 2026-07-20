@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/umergulkaleem/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/umergulkaleem/LeetCode/tree/master/1046-last-stone-weight) |
 | [1122-relative-sort-array](https://github.com/umergulkaleem/LeetCode/tree/master/1122-relative-sort-array) |
+| [1260-shift-2d-grid](https://github.com/umergulkaleem/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/umergulkaleem/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1319-unique-number-of-occurrences](https://github.com/umergulkaleem/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/umergulkaleem/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/umergulkaleem/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/umergulkaleem/LeetCode/tree/master/0735-asteroid-collision) |
 | [1119-robot-bounded-in-circle](https://github.com/umergulkaleem/LeetCode/tree/master/1119-robot-bounded-in-circle) |
+| [1260-shift-2d-grid](https://github.com/umergulkaleem/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/umergulkaleem/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1603-design-parking-system](https://github.com/umergulkaleem/LeetCode/tree/master/1603-design-parking-system) |
 | [1642-water-bottles](https://github.com/umergulkaleem/LeetCode/tree/master/1642-water-bottles) |
@@ -767,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/umergulkaleem/LeetCode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/umergulkaleem/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/umergulkaleem/LeetCode/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/umergulkaleem/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/umergulkaleem/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/umergulkaleem/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1677-matrix-diagonal-sum](https://github.com/umergulkaleem/LeetCode/tree/master/1677-matrix-diagonal-sum) |
