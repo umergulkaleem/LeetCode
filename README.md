@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/umergulkaleem/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/umergulkaleem/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/umergulkaleem/LeetCode/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/umergulkaleem/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0791-custom-sort-string](https://github.com/umergulkaleem/LeetCode/tree/master/0791-custom-sort-string) |
 | [0846-hand-of-straights](https://github.com/umergulkaleem/LeetCode/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/umergulkaleem/LeetCode/tree/master/0853-car-fleet) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/umergulkaleem/LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/umergulkaleem/LeetCode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/umergulkaleem/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/umergulkaleem/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0665-non-decreasing-array](https://github.com/umergulkaleem/LeetCode/tree/master/0665-non-decreasing-array) |
 | [0682-baseball-game](https://github.com/umergulkaleem/LeetCode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/umergulkaleem/LeetCode/tree/master/0695-max-area-of-island) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/umergulkaleem/LeetCode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/umergulkaleem/LeetCode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/umergulkaleem/LeetCode/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/umergulkaleem/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/umergulkaleem/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/umergulkaleem/LeetCode/tree/master/0763-partition-labels) |
 | [0838-push-dominoes](https://github.com/umergulkaleem/LeetCode/tree/master/0838-push-dominoes) |
@@ -640,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/umergulkaleem/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/umergulkaleem/LeetCode/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/umergulkaleem/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/umergulkaleem/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0778-swim-in-rising-water](https://github.com/umergulkaleem/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/umergulkaleem/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/umergulkaleem/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -953,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/umergulkaleem/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/umergulkaleem/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/umergulkaleem/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/umergulkaleem/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/umergulkaleem/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/umergulkaleem/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/umergulkaleem/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -1023,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/umergulkaleem/LeetCode/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/umergulkaleem/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/umergulkaleem/LeetCode/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/umergulkaleem/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/umergulkaleem/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/umergulkaleem/LeetCode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/umergulkaleem/LeetCode/tree/master/0778-swim-in-rising-water) |
