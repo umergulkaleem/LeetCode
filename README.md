@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-count-number-of-bad-pairs](https://github.com/umergulkaleem/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/umergulkaleem/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/umergulkaleem/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/umergulkaleem/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/umergulkaleem/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/umergulkaleem/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/umergulkaleem/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/umergulkaleem/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/umergulkaleem/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/umergulkaleem/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/umergulkaleem/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/umergulkaleem/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/umergulkaleem/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/umergulkaleem/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/umergulkaleem/LeetCode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/umergulkaleem/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2306-naming-a-company](https://github.com/umergulkaleem/LeetCode/tree/master/2306-naming-a-company) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/umergulkaleem/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/umergulkaleem/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/umergulkaleem/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Simulation
