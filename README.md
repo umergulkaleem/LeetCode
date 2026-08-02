@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/umergulkaleem/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-design-underground-system](https://github.com/umergulkaleem/LeetCode/tree/master/1396-design-underground-system) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/umergulkaleem/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1436-destination-city](https://github.com/umergulkaleem/LeetCode/tree/master/1436-destination-city) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/umergulkaleem/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/umergulkaleem/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/umergulkaleem/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/umergulkaleem/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1396-design-underground-system](https://github.com/umergulkaleem/LeetCode/tree/master/1396-design-underground-system) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/umergulkaleem/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1436-destination-city](https://github.com/umergulkaleem/LeetCode/tree/master/1436-destination-city) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/umergulkaleem/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/umergulkaleem/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/umergulkaleem/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/umergulkaleem/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/umergulkaleem/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/umergulkaleem/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1436-destination-city](https://github.com/umergulkaleem/LeetCode/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/umergulkaleem/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/umergulkaleem/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/umergulkaleem/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
