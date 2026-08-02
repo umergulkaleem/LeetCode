@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/umergulkaleem/LeetCode/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/umergulkaleem/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/umergulkaleem/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/umergulkaleem/LeetCode/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/umergulkaleem/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0973-k-closest-points-to-origin](https://github.com/umergulkaleem/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/umergulkaleem/LeetCode/tree/master/1013-fibonacci-number) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/umergulkaleem/LeetCode/tree/master/0853-car-fleet) |
 | [0869-similar-string-groups](https://github.com/umergulkaleem/LeetCode/tree/master/0869-similar-string-groups) |
 | [0875-koko-eating-bananas](https://github.com/umergulkaleem/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/umergulkaleem/LeetCode/tree/master/0877-stone-game) |
 | [0890-lemonade-change](https://github.com/umergulkaleem/LeetCode/tree/master/0890-lemonade-change) |
 | [0912-sort-an-array](https://github.com/umergulkaleem/LeetCode/tree/master/0912-sort-an-array) |
 | [0916-word-subsets](https://github.com/umergulkaleem/LeetCode/tree/master/0916-word-subsets) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/umergulkaleem/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0799-champagne-tower](https://github.com/umergulkaleem/LeetCode/tree/master/0799-champagne-tower) |
 | [0838-push-dominoes](https://github.com/umergulkaleem/LeetCode/tree/master/0838-push-dominoes) |
+| [0877-stone-game](https://github.com/umergulkaleem/LeetCode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/umergulkaleem/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/umergulkaleem/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/umergulkaleem/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -1211,4 +1214,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/umergulkaleem/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/umergulkaleem/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
