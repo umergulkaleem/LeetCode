@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/umergulkaleem/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/umergulkaleem/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/umergulkaleem/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1406-stone-game-iii](https://github.com/umergulkaleem/LeetCode/tree/master/1406-stone-game-iii) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/umergulkaleem/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/umergulkaleem/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/umergulkaleem/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/umergulkaleem/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/umergulkaleem/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/umergulkaleem/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1406-stone-game-iii](https://github.com/umergulkaleem/LeetCode/tree/master/1406-stone-game-iii) |
 | [1436-destination-city](https://github.com/umergulkaleem/LeetCode/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/umergulkaleem/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/umergulkaleem/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/umergulkaleem/LeetCode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/umergulkaleem/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/umergulkaleem/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1406-stone-game-iii](https://github.com/umergulkaleem/LeetCode/tree/master/1406-stone-game-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/umergulkaleem/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/umergulkaleem/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/umergulkaleem/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1218,4 +1221,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/umergulkaleem/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/umergulkaleem/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/umergulkaleem/LeetCode/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/umergulkaleem/LeetCode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/umergulkaleem/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
