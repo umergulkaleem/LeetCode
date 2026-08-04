@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/umergulkaleem/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/umergulkaleem/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/umergulkaleem/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3731-find-missing-elements](https://github.com/umergulkaleem/LeetCode/tree/master/3731-find-missing-elements) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/umergulkaleem/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3863-power-grid-maintenance](https://github.com/umergulkaleem/LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/umergulkaleem/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/umergulkaleem/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/umergulkaleem/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/umergulkaleem/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/umergulkaleem/LeetCode/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/umergulkaleem/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/umergulkaleem/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/umergulkaleem/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/umergulkaleem/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/umergulkaleem/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3731-find-missing-elements](https://github.com/umergulkaleem/LeetCode/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/umergulkaleem/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/umergulkaleem/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3863-power-grid-maintenance](https://github.com/umergulkaleem/LeetCode/tree/master/3863-power-grid-maintenance) |
