@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/umergulkaleem/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/umergulkaleem/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/umergulkaleem/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/umergulkaleem/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/umergulkaleem/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/umergulkaleem/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/umergulkaleem/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -918,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/umergulkaleem/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/umergulkaleem/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2306-naming-a-company](https://github.com/umergulkaleem/LeetCode/tree/master/2306-naming-a-company) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/umergulkaleem/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Tree
 |  |
 | ------- |
