@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/umergulkaleem/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/umergulkaleem/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3110-score-of-a-string](https://github.com/umergulkaleem/LeetCode/tree/master/3110-score-of-a-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/umergulkaleem/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/umergulkaleem/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/umergulkaleem/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/umergulkaleem/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/umergulkaleem/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/umergulkaleem/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/umergulkaleem/LeetCode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/umergulkaleem/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Memoization
 |  |
 | ------- |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/umergulkaleem/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/umergulkaleem/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/umergulkaleem/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/umergulkaleem/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/umergulkaleem/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
@@ -878,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/umergulkaleem/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/umergulkaleem/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/umergulkaleem/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/umergulkaleem/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Geometry
 |  |
 | ------- |
