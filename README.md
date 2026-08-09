@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/umergulkaleem/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/umergulkaleem/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1119-robot-bounded-in-circle](https://github.com/umergulkaleem/LeetCode/tree/master/1119-robot-bounded-in-circle) |
+| [1140-stone-game-ii](https://github.com/umergulkaleem/LeetCode/tree/master/1140-stone-game-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/umergulkaleem/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/umergulkaleem/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/umergulkaleem/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/umergulkaleem/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/umergulkaleem/LeetCode/tree/master/1046-last-stone-weight) |
 | [1122-relative-sort-array](https://github.com/umergulkaleem/LeetCode/tree/master/1122-relative-sort-array) |
+| [1140-stone-game-ii](https://github.com/umergulkaleem/LeetCode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/umergulkaleem/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/umergulkaleem/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1319-unique-number-of-occurrences](https://github.com/umergulkaleem/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-push-dominoes](https://github.com/umergulkaleem/LeetCode/tree/master/0838-push-dominoes) |
 | [0877-stone-game](https://github.com/umergulkaleem/LeetCode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/umergulkaleem/LeetCode/tree/master/1013-fibonacci-number) |
+| [1140-stone-game-ii](https://github.com/umergulkaleem/LeetCode/tree/master/1140-stone-game-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/umergulkaleem/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1406-stone-game-iii](https://github.com/umergulkaleem/LeetCode/tree/master/1406-stone-game-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/umergulkaleem/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -978,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/umergulkaleem/LeetCode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/umergulkaleem/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/umergulkaleem/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/umergulkaleem/LeetCode/tree/master/1140-stone-game-ii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/umergulkaleem/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/umergulkaleem/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/umergulkaleem/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -1237,13 +1241,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/umergulkaleem/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/umergulkaleem/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/umergulkaleem/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/umergulkaleem/LeetCode/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/umergulkaleem/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/umergulkaleem/LeetCode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/umergulkaleem/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/umergulkaleem/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
