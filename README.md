@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/umergulkaleem/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/umergulkaleem/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/umergulkaleem/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/umergulkaleem/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/umergulkaleem/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/umergulkaleem/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/umergulkaleem/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/umergulkaleem/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/umergulkaleem/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/umergulkaleem/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/umergulkaleem/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/umergulkaleem/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/umergulkaleem/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/umergulkaleem/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -1023,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/umergulkaleem/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/umergulkaleem/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/umergulkaleem/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/umergulkaleem/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/umergulkaleem/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Counting
 |  |
