@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2490-circular-sentence](https://github.com/umergulkaleem/LeetCode/tree/master/2490-circular-sentence) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/umergulkaleem/LeetCode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2678-number-of-senior-citizens](https://github.com/umergulkaleem/LeetCode/tree/master/2678-number-of-senior-citizens) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/umergulkaleem/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/umergulkaleem/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/umergulkaleem/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/umergulkaleem/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -1056,6 +1057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/umergulkaleem/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/umergulkaleem/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/umergulkaleem/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/umergulkaleem/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/umergulkaleem/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/umergulkaleem/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/umergulkaleem/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
