@@ -8,7 +8,7 @@ class Solution:
         while count<len(nums)-k:
             count+=1
             arr = nums[count:count+k]
-            check = set(arr)
+            # check = set(arr)
             prev  = arr[0]
             done  = False
             print(arr)
