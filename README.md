@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2191-sort-the-jumbled-numbers](https://github.com/umergulkaleem/LeetCode/tree/master/2191-sort-the-jumbled-numbers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/umergulkaleem/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/umergulkaleem/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/umergulkaleem/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/umergulkaleem/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/umergulkaleem/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/umergulkaleem/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/umergulkaleem/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/umergulkaleem/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/umergulkaleem/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/umergulkaleem/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/umergulkaleem/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/umergulkaleem/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/umergulkaleem/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -1229,6 +1231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/umergulkaleem/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1584-min-cost-to-connect-all-points](https://github.com/umergulkaleem/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2685-count-the-number-of-complete-components](https://github.com/umergulkaleem/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/umergulkaleem/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
 |  |
 | ------- |
