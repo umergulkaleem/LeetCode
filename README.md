@@ -480,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/umergulkaleem/LeetCode/tree/master/2029-stone-game-ix) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/umergulkaleem/LeetCode/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2073-time-needed-to-buy-tickets](https://github.com/umergulkaleem/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/umergulkaleem/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/umergulkaleem/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/umergulkaleem/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/umergulkaleem/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -916,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/umergulkaleem/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/umergulkaleem/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2029-stone-game-ix](https://github.com/umergulkaleem/LeetCode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/umergulkaleem/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2405-optimal-partition-of-string](https://github.com/umergulkaleem/LeetCode/tree/master/2405-optimal-partition-of-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/umergulkaleem/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/umergulkaleem/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
