@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2353-design-a-food-rating-system](https://github.com/umergulkaleem/LeetCode/tree/master/2353-design-a-food-rating-system) |
 | [2364-count-number-of-bad-pairs](https://github.com/umergulkaleem/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2405-optimal-partition-of-string](https://github.com/umergulkaleem/LeetCode/tree/master/2405-optimal-partition-of-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/umergulkaleem/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/umergulkaleem/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/umergulkaleem/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/umergulkaleem/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-count-number-of-bad-pairs](https://github.com/umergulkaleem/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2381-shifting-letters-ii](https://github.com/umergulkaleem/LeetCode/tree/master/2381-shifting-letters-ii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/umergulkaleem/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/umergulkaleem/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/umergulkaleem/LeetCode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/umergulkaleem/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/umergulkaleem/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -1067,6 +1069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/umergulkaleem/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/umergulkaleem/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/umergulkaleem/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/umergulkaleem/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/umergulkaleem/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/umergulkaleem/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/umergulkaleem/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
