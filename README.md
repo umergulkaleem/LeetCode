@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2070-most-beautiful-item-for-each-query](https://github.com/umergulkaleem/LeetCode/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2191-sort-the-jumbled-numbers](https://github.com/umergulkaleem/LeetCode/tree/master/2191-sort-the-jumbled-numbers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/umergulkaleem/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/umergulkaleem/LeetCode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/umergulkaleem/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/umergulkaleem/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/umergulkaleem/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/umergulkaleem/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2678-number-of-senior-citizens](https://github.com/umergulkaleem/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/umergulkaleem/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/umergulkaleem/LeetCode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/umergulkaleem/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/umergulkaleem/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/umergulkaleem/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1898-maximum-number-of-removable-characters](https://github.com/umergulkaleem/LeetCode/tree/master/1898-maximum-number-of-removable-characters) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/umergulkaleem/LeetCode/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/umergulkaleem/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/umergulkaleem/LeetCode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/umergulkaleem/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/umergulkaleem/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Database
@@ -1075,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/umergulkaleem/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/umergulkaleem/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/umergulkaleem/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/umergulkaleem/LeetCode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/umergulkaleem/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/umergulkaleem/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/umergulkaleem/LeetCode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
