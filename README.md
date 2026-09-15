@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/umergulkaleem/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/umergulkaleem/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/umergulkaleem/LeetCode/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/umergulkaleem/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0763-partition-labels](https://github.com/umergulkaleem/LeetCode/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/umergulkaleem/LeetCode/tree/master/0791-custom-sort-string) |
 | [0846-hand-of-straights](https://github.com/umergulkaleem/LeetCode/tree/master/0846-hand-of-straights) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/umergulkaleem/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/umergulkaleem/LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/umergulkaleem/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/umergulkaleem/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/umergulkaleem/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0791-custom-sort-string](https://github.com/umergulkaleem/LeetCode/tree/master/0791-custom-sort-string) |
 | [0846-hand-of-straights](https://github.com/umergulkaleem/LeetCode/tree/master/0846-hand-of-straights) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/umergulkaleem/LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/umergulkaleem/LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/umergulkaleem/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/umergulkaleem/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/umergulkaleem/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/umergulkaleem/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0665-non-decreasing-array](https://github.com/umergulkaleem/LeetCode/tree/master/0665-non-decreasing-array) |
@@ -928,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/umergulkaleem/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/umergulkaleem/LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/umergulkaleem/LeetCode/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/umergulkaleem/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/umergulkaleem/LeetCode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/umergulkaleem/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/umergulkaleem/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -1077,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/umergulkaleem/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/umergulkaleem/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/umergulkaleem/LeetCode/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/umergulkaleem/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/umergulkaleem/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/umergulkaleem/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/umergulkaleem/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -1170,6 +1175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/umergulkaleem/LeetCode/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/umergulkaleem/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/umergulkaleem/LeetCode/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/umergulkaleem/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/umergulkaleem/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/umergulkaleem/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/umergulkaleem/LeetCode/tree/master/0743-network-delay-time) |
