@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/umergulkaleem/LeetCode/tree/master/1436-destination-city) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/umergulkaleem/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/umergulkaleem/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1598-crawler-log-folder](https://github.com/umergulkaleem/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/umergulkaleem/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/umergulkaleem/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/umergulkaleem/LeetCode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/umergulkaleem/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/umergulkaleem/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/umergulkaleem/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
+| [1598-crawler-log-folder](https://github.com/umergulkaleem/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/umergulkaleem/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1652-defuse-the-bomb](https://github.com/umergulkaleem/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/umergulkaleem/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -864,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/umergulkaleem/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/umergulkaleem/LeetCode/tree/master/0853-car-fleet) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/umergulkaleem/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1598-crawler-log-folder](https://github.com/umergulkaleem/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/umergulkaleem/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/umergulkaleem/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/umergulkaleem/LeetCode/tree/master/2470-removing-stars-from-a-string) |
