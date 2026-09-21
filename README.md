@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/umergulkaleem/LeetCode/tree/master/1436-destination-city) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/umergulkaleem/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/umergulkaleem/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/umergulkaleem/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/umergulkaleem/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/umergulkaleem/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/umergulkaleem/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -868,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/umergulkaleem/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/umergulkaleem/LeetCode/tree/master/0853-car-fleet) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/umergulkaleem/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/umergulkaleem/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/umergulkaleem/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/umergulkaleem/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/umergulkaleem/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -1213,6 +1215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/umergulkaleem/LeetCode/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/umergulkaleem/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/umergulkaleem/LeetCode/tree/master/0853-car-fleet) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/umergulkaleem/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Graph
 |  |
 | ------- |
