@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/umergulkaleem/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3863-power-grid-maintenance](https://github.com/umergulkaleem/LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/umergulkaleem/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/umergulkaleem/LeetCode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## String
 |  |
 | ------- |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/umergulkaleem/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/umergulkaleem/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/umergulkaleem/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/umergulkaleem/LeetCode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1154,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/umergulkaleem/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/umergulkaleem/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/umergulkaleem/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/umergulkaleem/LeetCode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Interactive
 |  |
 | ------- |
