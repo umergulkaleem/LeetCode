@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/umergulkaleem/LeetCode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/umergulkaleem/LeetCode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2678-number-of-senior-citizens](https://github.com/umergulkaleem/LeetCode/tree/master/2678-number-of-senior-citizens) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/umergulkaleem/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/umergulkaleem/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/umergulkaleem/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/umergulkaleem/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -742,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/umergulkaleem/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/umergulkaleem/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2470-removing-stars-from-a-string](https://github.com/umergulkaleem/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/umergulkaleem/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/umergulkaleem/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/umergulkaleem/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/umergulkaleem/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -897,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/umergulkaleem/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/umergulkaleem/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/umergulkaleem/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/umergulkaleem/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Matrix
 |  |
 | ------- |
