@@ -1,17 +1,33 @@
 class Solution:
     def checkValidString(self, s: str) -> bool:
-        leftMin ,leftMax = 0,0
 
-        for ch in s:
-            if ch == "(":
-                leftMin,leftMax =leftMin +1,leftMax+1
-            elif ch == ")":
-                leftMin,leftMax =leftMin -1,leftMax-1
+        stack = []
+        stack2 = []
+        for i in range(len(s)):
+            curr = s[i]
+            # print(curr)
+            # print(stack)
+            # print(stack2)
+            if curr == ")":
+                if stack:
+                    stack.pop()
+                elif stack2:
+                    stack2.pop()
+                else:
+                    return False 
             else:
-                leftMin,leftMax =leftMin -1,leftMax+1
-            if leftMax<0:
+                if curr == "(":
+                    stack.append(i)
+                else:
+                    stack2.append(i)
+       
+        while stack and stack2:
+            if stack[-1] < stack2[-1]:
+                stack.pop()
+                stack2.pop()
+            else:
                 return False
-            if leftMin < 0 :
-                leftMin = 0
 
-        return leftMin == 0 
+        return not stack
+
+
