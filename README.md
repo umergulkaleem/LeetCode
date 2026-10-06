@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/umergulkaleem/LeetCode/tree/master/0869-similar-string-groups) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/umergulkaleem/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0916-word-subsets](https://github.com/umergulkaleem/LeetCode/tree/master/0916-word-subsets) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/umergulkaleem/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1119-robot-bounded-in-circle](https://github.com/umergulkaleem/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/umergulkaleem/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/umergulkaleem/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -892,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/umergulkaleem/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/umergulkaleem/LeetCode/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/umergulkaleem/LeetCode/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/umergulkaleem/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/umergulkaleem/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/umergulkaleem/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/umergulkaleem/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -975,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/umergulkaleem/LeetCode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/umergulkaleem/LeetCode/tree/master/0846-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/umergulkaleem/LeetCode/tree/master/0890-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/umergulkaleem/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/umergulkaleem/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/umergulkaleem/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/umergulkaleem/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1419,6 +1422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/umergulkaleem/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/umergulkaleem/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/umergulkaleem/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/umergulkaleem/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/umergulkaleem/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/umergulkaleem/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
