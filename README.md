@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/umergulkaleem/LeetCode/tree/master/0932-monotonic-array) |
 | [0946-validate-stack-sequences](https://github.com/umergulkaleem/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [0948-bag-of-tokens](https://github.com/umergulkaleem/LeetCode/tree/master/0948-bag-of-tokens) |
+| [0962-maximum-width-ramp](https://github.com/umergulkaleem/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [0973-k-closest-points-to-origin](https://github.com/umergulkaleem/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/umergulkaleem/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/umergulkaleem/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/umergulkaleem/LeetCode/tree/master/0763-partition-labels) |
 | [0838-push-dominoes](https://github.com/umergulkaleem/LeetCode/tree/master/0838-push-dominoes) |
 | [0948-bag-of-tokens](https://github.com/umergulkaleem/LeetCode/tree/master/0948-bag-of-tokens) |
+| [0962-maximum-width-ramp](https://github.com/umergulkaleem/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/umergulkaleem/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/umergulkaleem/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/umergulkaleem/LeetCode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
@@ -895,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/umergulkaleem/LeetCode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/umergulkaleem/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/umergulkaleem/LeetCode/tree/master/0946-validate-stack-sequences) |
+| [0962-maximum-width-ramp](https://github.com/umergulkaleem/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/umergulkaleem/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/umergulkaleem/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/umergulkaleem/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -1254,6 +1257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/umergulkaleem/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/umergulkaleem/LeetCode/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/umergulkaleem/LeetCode/tree/master/0901-online-stock-span) |
+| [0962-maximum-width-ramp](https://github.com/umergulkaleem/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/umergulkaleem/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Graph
 |  |
