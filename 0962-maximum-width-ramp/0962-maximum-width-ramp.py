@@ -6,7 +6,7 @@ class Solution:
             # print(i)
             tmp = max(tmp,nums[i])
             arr1[i] = tmp
-        print(arr1)
+        # print(arr1)
 
         l = 0
         res = 0
