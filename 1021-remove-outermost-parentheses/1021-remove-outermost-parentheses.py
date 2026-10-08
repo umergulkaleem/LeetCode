@@ -16,11 +16,10 @@ class Solution:
                     remove.append(i)
                 stack.append(p)
             # print(remove,"at",stack)
-
+        s = list(s)
         for i in reversed(remove):
-            s = s[:i] + s[i+1:]
-            # print(s,"after removing",i)
-        return s
+            s.pop(i)
+        return "".join(s)
 
         
 
