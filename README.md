@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/umergulkaleem/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/umergulkaleem/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/umergulkaleem/LeetCode/tree/master/0202-happy-number) |
+| [0227-basic-calculator-ii](https://github.com/umergulkaleem/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/umergulkaleem/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/umergulkaleem/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/umergulkaleem/LeetCode/tree/master/0326-power-of-three) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/umergulkaleem/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/umergulkaleem/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/umergulkaleem/LeetCode/tree/master/0212-word-search-ii) |
+| [0227-basic-calculator-ii](https://github.com/umergulkaleem/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/umergulkaleem/LeetCode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/umergulkaleem/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/umergulkaleem/LeetCode/tree/master/0332-reconstruct-itinerary) |
@@ -885,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/umergulkaleem/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/umergulkaleem/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/umergulkaleem/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/umergulkaleem/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/umergulkaleem/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/umergulkaleem/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/umergulkaleem/LeetCode/tree/master/0402-remove-k-digits) |
