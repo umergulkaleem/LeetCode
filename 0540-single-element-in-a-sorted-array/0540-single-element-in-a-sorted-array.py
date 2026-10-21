@@ -1,15 +1,32 @@
 class Solution:
     def singleNonDuplicate(self, nums: List[int]) -> int:
         l,r = 0,len(nums)-1
-
-        while l<=r:
-            m = l + (r - l) // 2
-            if ((m-1<0 or nums[m-1] != nums[m])and (m+1==len(nums) or nums[m+1]!= nums[m])):
-                return nums[m]
-            leftSize = m-1 if nums[m-1] == nums[m] else m
-            if leftSize %2:
-                r = m-1
+        even = True
+        while l<r:
+            mid = (l+r)//2
+            if mid % 2 == 0:
+                # print(mid % 2)
+                # even = True
+                other = nums[mid+1]
+                # print(nums[mid],other)
+                if nums[mid]  != other:
+                    # return nums[mid]
+                    r = mid
+                else:
+                    l = mid+2
             else:
-                l = m+1
+                # even = False
+                other = nums[mid-1]
+                if nums[mid]  != other:
+                    
+                    r = mid-1
+                else:
+                    l = mid+1
+        return nums[l]
+            
+
+
+            
+
 
         
