@@ -525,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2013-detect-squares](https://github.com/umergulkaleem/LeetCode/tree/master/2013-detect-squares) |
 | [2017-grid-game](https://github.com/umergulkaleem/LeetCode/tree/master/2017-grid-game) |
 | [2029-stone-game-ix](https://github.com/umergulkaleem/LeetCode/tree/master/2029-stone-game-ix) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/umergulkaleem/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/umergulkaleem/LeetCode/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2073-time-needed-to-buy-tickets](https://github.com/umergulkaleem/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/umergulkaleem/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -803,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-minimum-interval-to-include-each-query](https://github.com/umergulkaleem/LeetCode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1898-maximum-number-of-removable-characters](https://github.com/umergulkaleem/LeetCode/tree/master/1898-maximum-number-of-removable-characters) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/umergulkaleem/LeetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/umergulkaleem/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/umergulkaleem/LeetCode/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/umergulkaleem/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/umergulkaleem/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -1016,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/umergulkaleem/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/umergulkaleem/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2029-stone-game-ix](https://github.com/umergulkaleem/LeetCode/tree/master/2029-stone-game-ix) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/umergulkaleem/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/umergulkaleem/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2405-optimal-partition-of-string](https://github.com/umergulkaleem/LeetCode/tree/master/2405-optimal-partition-of-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/umergulkaleem/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
